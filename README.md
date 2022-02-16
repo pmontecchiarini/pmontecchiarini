@@ -1,6 +1,6 @@
 # Welcome!
 
-Hi! My name is Pato, and I'm a front-end web developer. I love tech because of it's ability to improve people's lives. I develop with JS, Flutter and Wordpress.
+Hi! My name is Pato, and I'm a web & mobile developer. I love tech because of it's ability to improve people's lives. I code in Javascript (love React), and Dart - Flutter.
 
 - 👯 I’m looking to collaborate on any fun projects!
 
